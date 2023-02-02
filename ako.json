@@ -1,10 +1,9 @@
 
 {
 //The version is for updates. If there is an update, the number must be changed to be greater than before.
-"Version":"1.5",
+"Version":"1.9",
 //Link to update server
-"Url":"https://github.com/AungkoVpn/AKO/blob/main/ako.zip", 
-
+"Url":"https://github.com/AungkoVpn/AKO/blob/main/ako.zip
 "Changelog":"-----------------------------------------------------------
 ဖိုင်တင်တဲ့နေ့စွဲ/ရက် 2/02/2023 ဖိုင်အား
 အပ်ဒိပ်ပေးခဲ့ပါသည်
